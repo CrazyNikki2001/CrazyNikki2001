@@ -13,7 +13,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="[https://vk.com/crazy_nikki]" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
